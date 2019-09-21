@@ -2,4 +2,6 @@
 ===
 
 * [Соверщенный код](clean-code/README.md)
-* [Предметно-ориентированное проектирование](domain-driven-design/README.md)
+* [Архитектура](architecture/README.md)
+* [Команда](team/README.md)
+* [База данных](db/README.md)
