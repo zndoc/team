@@ -19,10 +19,10 @@ REST API
     * [Часовой пояс](time-zone.md)
     * [Мультиязычность](language.md)
     * [Отпечаток браузера](agent-fingerprint.md)
-* [Версионность](version.md)
-* [HTTP-код](http-code.md)
 * [Формат времени](time-format.md)
 
-## Документация
+## Разное
 
+* [Версионность](version.md)
+* [HTTP-код](http-code.md)
 * [Документация](doc.md)
