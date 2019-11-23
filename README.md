@@ -11,3 +11,4 @@
 * [REST API](rest-api/README.md)
 * [Тех. персонал](tech-people/README.md)
 * [Инструенты для разработки](tool/README.md)
+* [Пакеты Composer](composer/README.md)
