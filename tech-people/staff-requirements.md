@@ -25,18 +25,20 @@
 	* Опыт написания автотестов
 	* Умение разрабатывать понятный код
 	* Умение разбираться в чужом коде
-* Опыт работы с
-	* regexp
+	* Умение дебажить код
+* Опыт работы
+	* RegExp
 	* NodeJS
 	* REST API
 	* Git
 	* AJAX
 	* jQuery
 	* Twitter Bootstrap
+	* REST API
 * Знание и понимание принципов
 	* ООП
 	* SOLID
-	* MVC
+	* MVC, HMVC (MVVM)
 	* Паттерны проектирования
 	* Архитектурные парадигмы (например DDD)
 * Уровень английского языка
@@ -45,36 +47,47 @@
 # Backend
 
 * БД
-	* SQL (умение составлять и оптимизировать сложные SQL запросы)
-	* PostgreSQL
-	* MySQL
-* Опыт работы с *nix
+	* умение составлять SQL запросы
+	* Postgres SQL, MySQL, Sqlite
+	* PDO
+	* Индексы
+	* Связи
+* Опыт работы
 	* bash
 	* ssh
 	* конфигурирование Apache/nginx
-* Опыт работы с
 	* HTML 5
 	* CSS 3
 	* JS
+	* .htaccess (mod_rewrite)
 	* PHP 5.3 и выше
-	* yii\yii2
+	* Yii2, Symfony, Laravel
 	* Composer
-	* ORM
-	* ActiveRecord
+	* ORM (ActiveRecord, Doctrine)
 	* PSR
 	* SPL
+	* Пагинация
+	* Время (TIMESTAMP, ISO8601)
+	* Файлы (download, upload, read, write)
+	* Изображения (ImageMagick, GD)
+	* CronTab
+    * Безопасность (XSS, SQL Injection, CSRF)
+    * Валидция данных
+    * Кэш (Redis, MemCache,  OpCache)
+    * phar-архив
 
 # Frontend
 
-* Опыт работы с
+* Опыт работы
 	* HTML 5 (DOM, virtual DOM, Media)
-	* CSS 3 (LESS или SASS)
-	* JS (ECMAScript 6 или TypeScript)
+	* CSS 3 (LESS, SASS)
+	* JS (ECMAScript 6, TypeScript)
+* Знание и понимание принципов
+    * MVVM
 * Верстка
 	* кроссбраузерная
 	* адаптивная
 * Умение разрабатывать SPA-приложения на основе одного из современных фреймворков
-	* React (желательно Redux)
-	* Vue.js 2 (желательно Vuex)
-	* Angular 4
+	* React (Redux, React Native)
+	* Vue.js 2 (Vuex)
 * Автоматизация и сборка проекта (webpack, gulp)
