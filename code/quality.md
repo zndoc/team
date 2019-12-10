@@ -39,4 +39,4 @@
 Для более полного понимания, рекомендуется прочитать книгу: 
 **Совершенный код**, *Стив Макконнелл*.
 
-Шпаргалка находится в [здесь](https://github.com/legalbet-team/guide-team/blob/master/clean-code/README.md) (основные идеи из книги)
+Шпаргалка находится в [здесь](https://github.com/php7guide/guide-team/blob/master/clean-code/README.md) (основные идеи из книги)
