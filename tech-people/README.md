@@ -2,4 +2,5 @@
 ===
 
 * [Подбор персонала](staff-recruitment.md)
-* [Треования к кандидату](staff-requirements.md)
+* [Треования к разработчику](staff-requirements.md)
+* [Треования к тимлиду](staff-teamlead-requirements.md)
