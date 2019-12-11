@@ -1,7 +1,7 @@
 Командная документация
 ===
 
-* [Соверщенный код](clean-code/README.md)
+* [Совершенный код (шпаргалка)](clean-code/README.md)
 * [Архитектура](architecture/README.md)
 * [Команда](team/README.md)
 * [Код](code/README.md)
@@ -10,5 +10,5 @@
 * [База данных](db/README.md)
 * [REST API](rest-api/README.md)
 * [Тех. персонал](tech-people/README.md)
-* [Инструенты для разработки](tool/README.md)
+* [Инструменты для разработки](tool/README.md)
 * [Пакеты Composer](composer/README.md)
