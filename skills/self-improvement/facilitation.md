@@ -65,6 +65,3 @@ Scrum-мастер, внешний фасилитатор, тимлид ниже
 #### Литература
 - [Facilitator's Guide to Participatory Decision-Making, Sam Kaner, 2014](https://www.amazon.com/Facilitators-Participatory-Decision-Making-Jossey-bass-Management/dp/1118404955)
 - [Руководство фасилитатора. Как привести группу к принятию совместного решения, Сэм Кейнер, 2016 г.](https://www.alpinabook.ru/catalog/general-managment/7631/)
-
-### Консультации
-- [Чат TeamLead Bootcamp](https://t.me/teamlead_bootcamp)

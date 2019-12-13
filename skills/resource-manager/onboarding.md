@@ -49,9 +49,6 @@
 #### Примеры чек-листов для новых сотрудников
 - [Onboarding checklist example](https://www.notion.so/0ed0cc85ecc646a7ab4b6f78736a18fa)
 
-### Консультации
-- [Чат TeamLead Bootcamp](https://t.me/teamlead_bootcamp)
-
 ### Теория
 #### Статьи
 - [Гайд с вопросами для создания онбординга](https://www.shrm.org/resourcesandtools/hr-topics/talent-acquisition/pages/new-employee-onboarding-guide.aspx)

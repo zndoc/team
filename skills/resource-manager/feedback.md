@@ -50,9 +50,6 @@
 - Специализированные курсы, например [Как правильно давать обратную связь](https://www.eduson.tv/ru/careers/16/courses/4547)
 - [Обучение профессиональному коучингу](https://icf-russia.ru/icf-info/provajdery-obuchenija-kouchingu-v-rossii/)
 
-### Консультации
-- [Чат TeamLead Bootcamp](https://t.me/teamlead_bootcamp)
-
 ### Теория
 #### Статьи
 - [Правила дачи обратной связи](https://habr.com/ru/company/epam_systems/blog/442672/)

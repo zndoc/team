@@ -16,5 +16,3 @@
 Scrum-мастер, тимлид ниже уровнем.
 
 ## Способы прокачки
-### Консультации
-- [Чат TeamLead Bootcamp](https://t.me/teamlead_bootcamp)
