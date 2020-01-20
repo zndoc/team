@@ -12,3 +12,4 @@
 * [Тех. персонал](tech-people/README.md)
 * [Инструменты для разработки](tool/README.md)
 * [Пакеты Composer](composer/README.md)
+* [Регулярные выражения (RegExp)](regexp/README.md)
