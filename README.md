@@ -8,6 +8,7 @@
 * [Безопасность](security/README.md)
 * [Шпаргалки](cheat-sheet/README.md)
 * [База данных](db/README.md)
+* [Linux](https://github.com/zndoc/linux/blob/master/README.md)
 * [REST API](https://github.com/zndoc/rest-api/blob/master/README.md)
 * [Тех. персонал](tech-people/README.md)
 * [Инструменты для разработки](tool/README.md)
