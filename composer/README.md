@@ -13,3 +13,4 @@
 * [Документирование](doc.md)
 * [Кастомизация](customize.md)
 * [CHANGELOG](changelog.md)
+* [Игнор версии PHP](ignore-platform-reqs.md)
