@@ -3,6 +3,7 @@
 
 ## Код
 
+* [21 совет по эффективному использованию Composer](https://habr.com/ru/company/mailru/blog/346488/)
 * [Рекомендации для авторов кода и пользователей](http://yiiframework.ru/forum/viewtopic.php?f=9&t=19281)
 * [OpenSource-им PHP код](http://rmcreative.ru/blog/post/opensource-im-php-kod#comments)
 * [Рефакторинг.Гуру](https://refactoring.guru/ru)
