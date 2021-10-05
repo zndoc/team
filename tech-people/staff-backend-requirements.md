@@ -26,7 +26,7 @@ Backend
 	* Файлы (download, upload, read, write)
 	* Изображения (ImageMagick, GD)
 	* CronTab
-    * Безопасность (XSS, SQL Injection, CSRF)
-    * Валидция данных
-    * Кэш (Redis, MemCache,  OpCache)
-    * phar-архив
+	* Безопасность (XSS, SQL Injection, CSRF)
+	* Валидция данных
+	* Кэш (Redis, MemCache,  OpCache)
+	* phar-архив
