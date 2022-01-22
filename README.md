@@ -13,3 +13,4 @@
 * [Тех. персонал](tech-people/README.md)
 * [Пакеты Composer](composer/README.md)
 * [Регулярные выражения (RegExp)](regexp/README.md)
+* [Крипто валюты](crypto-currency/README.md)
