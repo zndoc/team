@@ -5,6 +5,7 @@
 * [Доска Kanban](kanban.md)
 * [Процесс разработки](develop.md)
 * [Термины](terms.md)
+* [Полезные ссылки](links.md)
 * [Интересные статьи](favorite-article.md)
 * [Рекомендуемая литература](recommended-literature.md)
 * [Правила GIT](git.md)
